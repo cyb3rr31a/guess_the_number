@@ -1,2 +1,4 @@
 # guess_the_number
-Guess the number game(computer)
+
+This is the source code to a 'Guess the Number' game coded using Python
+Hope you enjoy
